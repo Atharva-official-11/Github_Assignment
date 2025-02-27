@@ -1,0 +1,14 @@
+C:\dotnet\assignment\day3\classes_and_Object\bin\Debug\net6.0\classes_and_Object.exe
+C:\dotnet\assignment\day3\classes_and_Object\bin\Debug\net6.0\classes_and_Object.deps.json
+C:\dotnet\assignment\day3\classes_and_Object\bin\Debug\net6.0\classes_and_Object.runtimeconfig.json
+C:\dotnet\assignment\day3\classes_and_Object\bin\Debug\net6.0\classes_and_Object.dll
+C:\dotnet\assignment\day3\classes_and_Object\bin\Debug\net6.0\classes_and_Object.pdb
+C:\dotnet\assignment\day3\classes_and_Object\obj\Debug\net6.0\classes_and_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\assignment\day3\classes_and_Object\obj\Debug\net6.0\classes_and_Object.AssemblyInfoInputs.cache
+C:\dotnet\assignment\day3\classes_and_Object\obj\Debug\net6.0\classes_and_Object.AssemblyInfo.cs
+C:\dotnet\assignment\day3\classes_and_Object\obj\Debug\net6.0\classes_and_Object.csproj.CoreCompileInputs.cache
+C:\dotnet\assignment\day3\classes_and_Object\obj\Debug\net6.0\classes_and_Object.dll
+C:\dotnet\assignment\day3\classes_and_Object\obj\Debug\net6.0\refint\classes_and_Object.dll
+C:\dotnet\assignment\day3\classes_and_Object\obj\Debug\net6.0\classes_and_Object.pdb
+C:\dotnet\assignment\day3\classes_and_Object\obj\Debug\net6.0\classes_and_Object.genruntimeconfig.cache
+C:\dotnet\assignment\day3\classes_and_Object\obj\Debug\net6.0\ref\classes_and_Object.dll

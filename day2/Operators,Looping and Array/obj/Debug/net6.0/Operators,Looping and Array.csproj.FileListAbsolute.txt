@@ -1,0 +1,14 @@
+C:\dotnet\day2\Operators,Looping and Array\obj\Debug\net6.0\Operators,Looping and Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\day2\Operators,Looping and Array\obj\Debug\net6.0\Operators,Looping and Array.AssemblyInfoInputs.cache
+C:\dotnet\day2\Operators,Looping and Array\obj\Debug\net6.0\Operators,Looping and Array.AssemblyInfo.cs
+C:\dotnet\day2\Operators,Looping and Array\obj\Debug\net6.0\Operators,Looping and Array.csproj.CoreCompileInputs.cache
+C:\dotnet\day2\Operators,Looping and Array\bin\Debug\net6.0\Operators,Looping and Array.exe
+C:\dotnet\day2\Operators,Looping and Array\bin\Debug\net6.0\Operators,Looping and Array.deps.json
+C:\dotnet\day2\Operators,Looping and Array\bin\Debug\net6.0\Operators,Looping and Array.runtimeconfig.json
+C:\dotnet\day2\Operators,Looping and Array\bin\Debug\net6.0\Operators,Looping and Array.dll
+C:\dotnet\day2\Operators,Looping and Array\bin\Debug\net6.0\Operators,Looping and Array.pdb
+C:\dotnet\day2\Operators,Looping and Array\obj\Debug\net6.0\Operators,Looping and Array.dll
+C:\dotnet\day2\Operators,Looping and Array\obj\Debug\net6.0\refint\Operators,Looping and Array.dll
+C:\dotnet\day2\Operators,Looping and Array\obj\Debug\net6.0\Operators,Looping and Array.pdb
+C:\dotnet\day2\Operators,Looping and Array\obj\Debug\net6.0\Operators,Looping and Array.genruntimeconfig.cache
+C:\dotnet\day2\Operators,Looping and Array\obj\Debug\net6.0\ref\Operators,Looping and Array.dll

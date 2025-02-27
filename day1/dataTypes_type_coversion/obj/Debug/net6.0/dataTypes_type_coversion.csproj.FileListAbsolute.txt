@@ -1,0 +1,14 @@
+C:\dotnet\assignment\day1\dataTypes_type_coversion\bin\Debug\net6.0\dataTypes_type_coversion.exe
+C:\dotnet\assignment\day1\dataTypes_type_coversion\bin\Debug\net6.0\dataTypes_type_coversion.deps.json
+C:\dotnet\assignment\day1\dataTypes_type_coversion\bin\Debug\net6.0\dataTypes_type_coversion.runtimeconfig.json
+C:\dotnet\assignment\day1\dataTypes_type_coversion\bin\Debug\net6.0\dataTypes_type_coversion.dll
+C:\dotnet\assignment\day1\dataTypes_type_coversion\bin\Debug\net6.0\dataTypes_type_coversion.pdb
+C:\dotnet\assignment\day1\dataTypes_type_coversion\obj\Debug\net6.0\dataTypes_type_coversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\assignment\day1\dataTypes_type_coversion\obj\Debug\net6.0\dataTypes_type_coversion.AssemblyInfoInputs.cache
+C:\dotnet\assignment\day1\dataTypes_type_coversion\obj\Debug\net6.0\dataTypes_type_coversion.AssemblyInfo.cs
+C:\dotnet\assignment\day1\dataTypes_type_coversion\obj\Debug\net6.0\dataTypes_type_coversion.csproj.CoreCompileInputs.cache
+C:\dotnet\assignment\day1\dataTypes_type_coversion\obj\Debug\net6.0\dataTypes_type_coversion.dll
+C:\dotnet\assignment\day1\dataTypes_type_coversion\obj\Debug\net6.0\refint\dataTypes_type_coversion.dll
+C:\dotnet\assignment\day1\dataTypes_type_coversion\obj\Debug\net6.0\dataTypes_type_coversion.pdb
+C:\dotnet\assignment\day1\dataTypes_type_coversion\obj\Debug\net6.0\dataTypes_type_coversion.genruntimeconfig.cache
+C:\dotnet\assignment\day1\dataTypes_type_coversion\obj\Debug\net6.0\ref\dataTypes_type_coversion.dll

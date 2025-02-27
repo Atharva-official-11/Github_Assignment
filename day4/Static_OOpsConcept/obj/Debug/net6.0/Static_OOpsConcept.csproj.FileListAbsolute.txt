@@ -1,0 +1,14 @@
+C:\dotnet\assignment\day4\Static_OOpsConcept\bin\Debug\net6.0\Static_OOpsConcept.exe
+C:\dotnet\assignment\day4\Static_OOpsConcept\bin\Debug\net6.0\Static_OOpsConcept.deps.json
+C:\dotnet\assignment\day4\Static_OOpsConcept\bin\Debug\net6.0\Static_OOpsConcept.runtimeconfig.json
+C:\dotnet\assignment\day4\Static_OOpsConcept\bin\Debug\net6.0\Static_OOpsConcept.dll
+C:\dotnet\assignment\day4\Static_OOpsConcept\bin\Debug\net6.0\Static_OOpsConcept.pdb
+C:\dotnet\assignment\day4\Static_OOpsConcept\obj\Debug\net6.0\Static_OOpsConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\assignment\day4\Static_OOpsConcept\obj\Debug\net6.0\Static_OOpsConcept.AssemblyInfoInputs.cache
+C:\dotnet\assignment\day4\Static_OOpsConcept\obj\Debug\net6.0\Static_OOpsConcept.AssemblyInfo.cs
+C:\dotnet\assignment\day4\Static_OOpsConcept\obj\Debug\net6.0\Static_OOpsConcept.csproj.CoreCompileInputs.cache
+C:\dotnet\assignment\day4\Static_OOpsConcept\obj\Debug\net6.0\Static_OOpsConcept.dll
+C:\dotnet\assignment\day4\Static_OOpsConcept\obj\Debug\net6.0\refint\Static_OOpsConcept.dll
+C:\dotnet\assignment\day4\Static_OOpsConcept\obj\Debug\net6.0\Static_OOpsConcept.pdb
+C:\dotnet\assignment\day4\Static_OOpsConcept\obj\Debug\net6.0\Static_OOpsConcept.genruntimeconfig.cache
+C:\dotnet\assignment\day4\Static_OOpsConcept\obj\Debug\net6.0\ref\Static_OOpsConcept.dll
