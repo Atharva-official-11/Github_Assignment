@@ -1,0 +1,14 @@
+C:\dotnet\day5\Exception_Handling_ AbstractClass\bin\Debug\net6.0\Exception_Handling_ AbstractClass.exe
+C:\dotnet\day5\Exception_Handling_ AbstractClass\bin\Debug\net6.0\Exception_Handling_ AbstractClass.deps.json
+C:\dotnet\day5\Exception_Handling_ AbstractClass\bin\Debug\net6.0\Exception_Handling_ AbstractClass.runtimeconfig.json
+C:\dotnet\day5\Exception_Handling_ AbstractClass\bin\Debug\net6.0\Exception_Handling_ AbstractClass.dll
+C:\dotnet\day5\Exception_Handling_ AbstractClass\bin\Debug\net6.0\Exception_Handling_ AbstractClass.pdb
+C:\dotnet\day5\Exception_Handling_ AbstractClass\obj\Debug\net6.0\Exception_Handling_ AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\day5\Exception_Handling_ AbstractClass\obj\Debug\net6.0\Exception_Handling_ AbstractClass.AssemblyInfoInputs.cache
+C:\dotnet\day5\Exception_Handling_ AbstractClass\obj\Debug\net6.0\Exception_Handling_ AbstractClass.AssemblyInfo.cs
+C:\dotnet\day5\Exception_Handling_ AbstractClass\obj\Debug\net6.0\Exception_Handling_ AbstractClass.csproj.CoreCompileInputs.cache
+C:\dotnet\day5\Exception_Handling_ AbstractClass\obj\Debug\net6.0\Exception_Handling_ AbstractClass.dll
+C:\dotnet\day5\Exception_Handling_ AbstractClass\obj\Debug\net6.0\refint\Exception_Handling_ AbstractClass.dll
+C:\dotnet\day5\Exception_Handling_ AbstractClass\obj\Debug\net6.0\Exception_Handling_ AbstractClass.pdb
+C:\dotnet\day5\Exception_Handling_ AbstractClass\obj\Debug\net6.0\Exception_Handling_ AbstractClass.genruntimeconfig.cache
+C:\dotnet\day5\Exception_Handling_ AbstractClass\obj\Debug\net6.0\ref\Exception_Handling_ AbstractClass.dll

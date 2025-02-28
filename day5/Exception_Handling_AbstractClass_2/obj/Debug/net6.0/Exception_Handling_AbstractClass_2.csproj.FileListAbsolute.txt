@@ -1,0 +1,14 @@
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\obj\Debug\net6.0\Exception_Handling_AbstractClass_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\obj\Debug\net6.0\Exception_Handling_AbstractClass_2.AssemblyInfoInputs.cache
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\obj\Debug\net6.0\Exception_Handling_AbstractClass_2.AssemblyInfo.cs
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\obj\Debug\net6.0\Exception_Handling_AbstractClass_2.csproj.CoreCompileInputs.cache
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\bin\Debug\net6.0\Exception_Handling_AbstractClass_2.exe
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\bin\Debug\net6.0\Exception_Handling_AbstractClass_2.deps.json
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\bin\Debug\net6.0\Exception_Handling_AbstractClass_2.runtimeconfig.json
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\bin\Debug\net6.0\Exception_Handling_AbstractClass_2.dll
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\bin\Debug\net6.0\Exception_Handling_AbstractClass_2.pdb
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\obj\Debug\net6.0\Exception_Handling_AbstractClass_2.dll
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\obj\Debug\net6.0\refint\Exception_Handling_AbstractClass_2.dll
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\obj\Debug\net6.0\Exception_Handling_AbstractClass_2.pdb
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\obj\Debug\net6.0\Exception_Handling_AbstractClass_2.genruntimeconfig.cache
+C:\dotnet\day5\Exception_Handling_AbstractClass_2\obj\Debug\net6.0\ref\Exception_Handling_AbstractClass_2.dll
