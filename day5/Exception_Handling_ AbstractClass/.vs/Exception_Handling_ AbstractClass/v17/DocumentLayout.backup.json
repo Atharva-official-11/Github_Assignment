@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dotnet\\day5\\Exception_Handling_ AbstractClass\\",
+  "WorkspaceRootPath": "C:\\dotnet\\assignment\\day5\\Exception_Handling_ AbstractClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|c:\\dotnet\\day5\\exception_handling_ abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|c:\\dotnet\\assignment\\day5\\exception_handling_ abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|c:\\dotnet\\day5\\exception_handling_ abstractclass\\repository\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|solutionrelative:repository\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|c:\\dotnet\\day5\\exception_handling_ abstractclass\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|solutionrelative:models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|c:\\dotnet\\day5\\exception_handling_ abstractclass\\exception\\customeraccountallredyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|c:\\dotnet\\assignment\\day5\\exception_handling_ abstractclass\\exception\\customeraccountallredyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|solutionrelative:exception\\customeraccountallredyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|c:\\dotnet\\day5\\exception_handling_ abstractclass\\repository\\iaccountdetailsofbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|c:\\dotnet\\assignment\\day5\\exception_handling_ abstractclass\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|solutionrelative:models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|c:\\dotnet\\assignment\\day5\\exception_handling_ abstractclass\\repository\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|solutionrelative:repository\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|c:\\dotnet\\assignment\\day5\\exception_handling_ abstractclass\\repository\\iaccountdetailsofbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BBEB4A6-7D2D-4302-94A7-D90D96671BB8}|Exception_Handling_ AbstractClass.csproj|solutionrelative:repository\\iaccountdetailsofbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,66 +36,62 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dotnet\\day5\\Exception_Handling_ AbstractClass\\Program.cs",
+              "DocumentMoniker": "C:\\dotnet\\assignment\\day5\\Exception_Handling_ AbstractClass\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\dotnet\\day5\\Exception_Handling_ AbstractClass\\Program.cs",
+              "ToolTip": "C:\\dotnet\\assignment\\day5\\Exception_Handling_ AbstractClass\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAABAZmZmZmYkwCkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T20:13:43.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CustomerAccountALlredyExistException.cs",
-              "DocumentMoniker": "C:\\dotnet\\day5\\Exception_Handling_ AbstractClass\\exception\\CustomerAccountALlredyExistException.cs",
+              "DocumentMoniker": "C:\\dotnet\\assignment\\day5\\Exception_Handling_ AbstractClass\\exception\\CustomerAccountALlredyExistException.cs",
               "RelativeDocumentMoniker": "exception\\CustomerAccountALlredyExistException.cs",
-              "ToolTip": "C:\\dotnet\\day5\\Exception_Handling_ AbstractClass\\exception\\CustomerAccountALlredyExistException.cs",
+              "ToolTip": "C:\\dotnet\\assignment\\day5\\Exception_Handling_ AbstractClass\\exception\\CustomerAccountALlredyExistException.cs",
               "RelativeToolTip": "exception\\CustomerAccountALlredyExistException.cs",
               "ViewState": "AgIAAAQAAAAAMzMzMzMLwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T20:04:30.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T20:04:30.523Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Bank.cs",
-              "DocumentMoniker": "C:\\dotnet\\day5\\Exception_Handling_ AbstractClass\\models\\Bank.cs",
+              "DocumentMoniker": "C:\\dotnet\\assignment\\day5\\Exception_Handling_ AbstractClass\\models\\Bank.cs",
               "RelativeDocumentMoniker": "models\\Bank.cs",
-              "ToolTip": "C:\\dotnet\\day5\\Exception_Handling_ AbstractClass\\models\\Bank.cs",
+              "ToolTip": "C:\\dotnet\\assignment\\day5\\Exception_Handling_ AbstractClass\\models\\Bank.cs",
               "RelativeToolTip": "models\\Bank.cs",
               "ViewState": "AgIAAAsAAADg/////78owA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T12:50:18.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T12:50:18.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AccountDetails.cs",
-              "DocumentMoniker": "C:\\dotnet\\day5\\Exception_Handling_ AbstractClass\\repository\\AccountDetails.cs",
+              "DocumentMoniker": "C:\\dotnet\\assignment\\day5\\Exception_Handling_ AbstractClass\\repository\\AccountDetails.cs",
               "RelativeDocumentMoniker": "repository\\AccountDetails.cs",
-              "ToolTip": "C:\\dotnet\\day5\\Exception_Handling_ AbstractClass\\repository\\AccountDetails.cs",
+              "ToolTip": "C:\\dotnet\\assignment\\day5\\Exception_Handling_ AbstractClass\\repository\\AccountDetails.cs",
               "RelativeToolTip": "repository\\AccountDetails.cs",
               "ViewState": "AgIAABcAAAAAEwAAAAD2vzEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:03:09.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T13:03:09.088Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IAccountDetailsofBank.cs",
-              "DocumentMoniker": "C:\\dotnet\\day5\\Exception_Handling_ AbstractClass\\repository\\IAccountDetailsofBank.cs",
+              "DocumentMoniker": "C:\\dotnet\\assignment\\day5\\Exception_Handling_ AbstractClass\\repository\\IAccountDetailsofBank.cs",
               "RelativeDocumentMoniker": "repository\\IAccountDetailsofBank.cs",
-              "ToolTip": "C:\\dotnet\\day5\\Exception_Handling_ AbstractClass\\repository\\IAccountDetailsofBank.cs",
+              "ToolTip": "C:\\dotnet\\assignment\\day5\\Exception_Handling_ AbstractClass\\repository\\IAccountDetailsofBank.cs",
               "RelativeToolTip": "repository\\IAccountDetailsofBank.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:03:38.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T13:03:38.876Z"
             }
           ]
         }

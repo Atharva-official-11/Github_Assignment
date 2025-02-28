@@ -7,6 +7,7 @@ namespace Exception_Handling__AbstractClass
     {
         static void Main(string[] args)
         {
+           
             // left define and follow the right properties
             IAccountDetailsofBank Account = new AccountDetails();
 
@@ -23,6 +24,7 @@ namespace Exception_Handling__AbstractClass
 
             bool ResultOfAccountVerfied = Account.IsBankAccountExists(CustumerTrial1);
             bool ResultOfAccountVerfied2 = Account.IsBankAccountExists(CustumerTrial2);
+            //bool ResultOfAccountVerfied3 = Account.IsBankAccountExists(userAccountNumberInput,UserAccountName,CustomerAccountBalance);
 
             Console.WriteLine("First result of Customer1 -----------------------------------------------------------");
             if (ResultOfAccountVerfied)
@@ -45,12 +47,13 @@ namespace Exception_Handling__AbstractClass
                 Console.WriteLine($"Check your Account Number it is already exist!{CustumerTrial1.CustomerAccountNumber}");
             }
 
-
             Console.WriteLine("Final every Account exist -------------------------");
             foreach (Bank banks in allAccount)
             {
                 Console.WriteLine("Accounts " + banks);
             }
+
+
         }
     }
 }

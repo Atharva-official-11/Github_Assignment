@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\day5\\Exception_Handling_AbstractClass_2\\Exception_Handling_AbstractClass_2.csproj": {}
+    "C:\\dotnet\\assignment\\day5\\Exception_Handling_AbstractClass_2\\Exception_Handling_AbstractClass_2.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\day5\\Exception_Handling_AbstractClass_2\\Exception_Handling_AbstractClass_2.csproj": {
+    "C:\\dotnet\\assignment\\day5\\Exception_Handling_AbstractClass_2\\Exception_Handling_AbstractClass_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\day5\\Exception_Handling_AbstractClass_2\\Exception_Handling_AbstractClass_2.csproj",
+        "projectUniqueName": "C:\\dotnet\\assignment\\day5\\Exception_Handling_AbstractClass_2\\Exception_Handling_AbstractClass_2.csproj",
         "projectName": "Exception_Handling_AbstractClass_2",
-        "projectPath": "C:\\dotnet\\day5\\Exception_Handling_AbstractClass_2\\Exception_Handling_AbstractClass_2.csproj",
+        "projectPath": "C:\\dotnet\\assignment\\day5\\Exception_Handling_AbstractClass_2\\Exception_Handling_AbstractClass_2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\day5\\Exception_Handling_AbstractClass_2\\obj\\",
+        "outputPath": "C:\\dotnet\\assignment\\day5\\Exception_Handling_AbstractClass_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
