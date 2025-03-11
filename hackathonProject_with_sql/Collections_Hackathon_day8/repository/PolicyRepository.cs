@@ -19,13 +19,8 @@ namespace Collections_Hackathon_day8.repository
 
             command = new SqlCommand();
             connString = DBConnectionUtility.GetConnectionString();
-
-
-            //policies = new List<Policy>
-            //{
-            //    new Policy(101, "Atharva", PolicyType.Life, DateTime.Parse("01/01/2020"), DateTime.Parse("12/31/2025"))
-            //};
         }
+
         public int AddPolicy(Policy policy)
         {
 
@@ -62,17 +57,17 @@ namespace Collections_Hackathon_day8.repository
 
                 command.CommandText = "DELETE FROM Policies WHERE PolicyID = @PolicyID";
 
-                command.Parameters.AddWithValue("PolicyID",PolicyId);
+                command.Parameters.AddWithValue("PolicyID", PolicyId);
 
                 command.Connection = sqlconnection;
                 sqlconnection.Open();
 
-                int tocheck =  command.ExecuteNonQuery();
+                int tocheck = command.ExecuteNonQuery();
                 return tocheck;
 
             }
 
-
+        }
             //var policy = policies.FirstOrDefault(p => p.PolicyId == PolicyId);
             //if (policy != null)
             //{
@@ -82,8 +77,7 @@ namespace Collections_Hackathon_day8.repository
             //{
             //    throw new InsurancePolicyExceptionHandling("Enter valid Policy Id to delete!");
             //}
-        }
-
+        
         public List<Policy> GetAllPolicies()
         {
             List<Policy> policies = new List<Policy>();
@@ -163,26 +157,43 @@ namespace Collections_Hackathon_day8.repository
             //return policy;
         }
 
-        public void UpdatePolicy(int PolicyId , Policy UpdatedPolicy)
+        public void UpdatePolicy(int policyId, Policy updatedPolicy)
         {
+            using (SqlConnection sqlConnection = new SqlConnection(connString))
+            {
+                command.CommandText = "UPDATE Policies SET PolicyHolderName = @PolicyHolderName, PolicyType = @PolicyType, EndDate = @EndDate WHERE PolicyID = @PolicyID";
 
-          
+                command.Parameters.Clear();
 
+                command.Parameters.AddWithValue("@PolicyHolderName", updatedPolicy.PolicyHolder);  
+                command.Parameters.AddWithValue("@PolicyType", updatedPolicy.Type.ToString()); 
+                command.Parameters.AddWithValue("@EndDate", updatedPolicy.EndDate);  
+                command.Parameters.AddWithValue("@PolicyID", policyId);  
 
-            //var policy = policies.FirstOrDefault(p => p.PolicyId == PolicyId);
+                command.Connection = sqlConnection;
 
-            //if (policy == null)
-            //{
-            //    throw new InsurancePolicyExceptionHandling("Policy not Found Please enter valid Policy");
-            //}
+                try
+                {
+                    sqlConnection.Open();
 
-            //policy.PolicyHolder = UpdatedPolicy.PolicyHolder;
-            //policy.Type = UpdatedPolicy.Type;
-            //policy.StartDate = UpdatedPolicy.StartDate;
-            //policy.EndDate = UpdatedPolicy.EndDate;
+                    int rowsAffected = command.ExecuteNonQuery();
 
+                    if (rowsAffected > 0)
+                    {
+                        Console.WriteLine("Policy updated successfully in the database.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("No policy found with the given PolicyID.");
+                    }
+                }
+                catch (InsurancePolicyExceptionHandling ex)
+                {
+                    Console.WriteLine("An error occurred while updating the policy: " + ex.Message);
+                }
+            }
         }
-
+        
         public List<Policy> GetAllActivePolicy()
         {
             try
